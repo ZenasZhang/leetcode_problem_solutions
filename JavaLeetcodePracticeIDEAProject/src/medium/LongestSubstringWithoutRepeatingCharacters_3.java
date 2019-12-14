@@ -20,7 +20,7 @@ package medium;
  */
 public class LongestSubstringWithoutRepeatingCharacters_3 {
     public static void main(String[] args) {
-        System.out.println(lengthOfLongestSubstring(""));
+        System.out.println(lengthOfLongestSubstring("abcabcbb"));
     }
 
     public static int lengthOfLongestSubstring(String s) {
