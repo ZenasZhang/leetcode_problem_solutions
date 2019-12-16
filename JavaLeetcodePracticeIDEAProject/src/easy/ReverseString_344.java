@@ -27,7 +27,7 @@ public class ReverseString_344 {
         if (len==0 || len==1){
             return;
         }else if (len%2==0){
-            // create double pointers "front" and "back" 
+            // create double pointers "front" and "back"
             char front;
             char back;
             for (int i = 0; i < len / 2; i++) {
