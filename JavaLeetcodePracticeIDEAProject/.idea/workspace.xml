@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ed1904d0-73cd-4484-b358-b06cb8188fff" name="Default Changelist" comment="update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easy/SearchInsertPosition_35.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/SearchInsertPosition_35.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,9 +34,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
-  <component name="RunManager" selected="Application.SearchInsertPosition_35">
-    <configuration name="DefangingAnIPAddress_1108" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="easy.DefangingAnIPAddress_1108" />
+  <component name="RunManager" selected="Application.LengthOfLastWord_58">
+    <configuration name="LengthOfLastWord_58" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="easy.LengthOfLastWord_58" />
       <module name="leetcodePractice" />
       <extension name="coverage">
         <pattern>
@@ -103,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LengthOfLastWord_58" />
         <item itemvalue="Application.SearchInsertPosition_35" />
         <item itemvalue="Application.RemoveDuplicatesFromSortedArray_26" />
         <item itemvalue="Application.MedianOfTwoSortedArrays_4" />
         <item itemvalue="Application.ReverseString_344" />
-        <item itemvalue="Application.DefangingAnIPAddress_1108" />
       </list>
     </recent_temporary>
   </component>
@@ -148,6 +147,7 @@
       <workItem from="1576543264254" duration="6137000" />
       <workItem from="1576589185049" duration="5371000" />
       <workItem from="1576934516581" duration="9838000" />
+      <workItem from="1576984978004" duration="3029000" />
     </task>
     <servers />
   </component>
@@ -160,38 +160,38 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="299" y="9" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1576310297035" />
-    <state width="1493" height="174" key="GridCell.Tab.0.bottom" timestamp="1576945922358">
+    <state width="1493" height="174" key="GridCell.Tab.0.bottom" timestamp="1576993400125">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="174" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1576945922358" />
-    <state width="1493" height="174" key="GridCell.Tab.0.center" timestamp="1576945922358">
+    <state width="1493" height="174" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1576993400125" />
+    <state width="1493" height="174" key="GridCell.Tab.0.center" timestamp="1576993400125">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="174" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1576945922358" />
-    <state width="1493" height="174" key="GridCell.Tab.0.left" timestamp="1576945922358">
+    <state width="1493" height="174" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1576993400125" />
+    <state width="1493" height="174" key="GridCell.Tab.0.left" timestamp="1576993400124">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="174" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1576945922358" />
-    <state width="1493" height="174" key="GridCell.Tab.0.right" timestamp="1576945922358">
+    <state width="1493" height="174" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1576993400124" />
+    <state width="1493" height="174" key="GridCell.Tab.0.right" timestamp="1576993400125">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="174" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1576945922358" />
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1576517662673">
+    <state width="1493" height="174" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1576993400125" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1576993381008">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1576517662673" />
-    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1576517662673">
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1576993381008" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1576993381008">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1576517662673" />
-    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1576517662673">
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1576993381008" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1576993381008">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1576517662673" />
-    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1576517662673">
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1576993381008" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1576993381008">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1576517662673" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1576993381008" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
