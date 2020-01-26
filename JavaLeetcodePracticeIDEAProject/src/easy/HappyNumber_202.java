@@ -8,10 +8,10 @@ package easy;
  * Input: 19
  * Output: true
  * Explanation:
- * 12 + 92 = 82
- * 82 + 22 = 68
- * 62 + 82 = 100
- * 12 + 02 + 02 = 1
+ * 1^2 + 9^2 = 82
+ * 8^2 + 2^2 = 68
+ * 6^2 + 8^2 = 100
+ * 1^2 + 0^2 + 0^2 = 1
  */
 
 public class HappyNumber_202 {
@@ -21,20 +21,30 @@ public class HappyNumber_202 {
     }
 
     public static boolean isHappy(int n) {
-        int len;
-        int changedN = 0;
-        for (int j = 0; j < 100; j++) {
-            len = String.valueOf(n).length();
-            for (int i = 0; i < len; i++) {
-                changedN += Math.pow(n % 10, 2);
-                n /= 10;
+        if (n == 1) {
+            return true;
+        } else if (n <= 0) {
+            return false;
+        }
+        int currentNum = n;
+        int nextNum = 0;
+        for (int i = 0; i < 10; i++) {
+            while (currentNum > 0) {
+                nextNum += (currentNum % 10) * (currentNum % 10);
+                currentNum /= 10;
             }
-            if (changedN == 1) {
+            if (nextNum == 1) {
                 return true;
             } else {
-                n = changedN;
+                currentNum = nextNum;
+                nextNum = 0;
             }
         }
         return false;
     }
+    /**
+     * pass
+     * 执行用时 :1 ms, 在所有 Java 提交中击败了100.00%的用户
+     * 内存消耗 :33.2 MB, 在所有 Java 提交中击败了87.91%的用户
+     */
 }
