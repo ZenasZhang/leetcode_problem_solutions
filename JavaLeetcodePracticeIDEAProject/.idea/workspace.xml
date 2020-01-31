@@ -34,22 +34,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
-  <component name="RunManager" selected="Application.AddDigits_258">
+  <component name="RunManager" selected="Application.StringCompression_443">
     <configuration name="AddDigits_258" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="easy.AddDigits_258" />
-      <module name="leetcodePractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AddStrings_415" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="easy.AddStrings_415" />
       <module name="leetcodePractice" />
       <extension name="coverage">
         <pattern>
@@ -74,8 +61,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberOf1Bits_191" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="easy.NumberOf1Bits_191" />
+    <configuration name="MaxConsecutiveOnes_485" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="easy.MaxConsecutiveOnes_485" />
       <module name="leetcodePractice" />
       <extension name="coverage">
         <pattern>
@@ -87,8 +74,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThirdMaximumNumber_414" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="easy.ThirdMaximumNumber_414" />
+    <configuration name="NimGame_292" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="easy.NimGame_292" />
+      <module name="leetcodePractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringCompression_443" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="easy.StringCompression_443" />
       <module name="leetcodePractice" />
       <extension name="coverage">
         <pattern>
@@ -102,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringCompression_443" />
+        <item itemvalue="Application.MaxConsecutiveOnes_485" />
+        <item itemvalue="Application.NimGame_292" />
         <item itemvalue="Application.AddDigits_258" />
         <item itemvalue="Application.LongestPalindrome_409" />
-        <item itemvalue="Application.ThirdMaximumNumber_414" />
-        <item itemvalue="Application.AddStrings_415" />
-        <item itemvalue="Application.NumberOf1Bits_191" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +161,8 @@
       <workItem from="1580262678882" duration="3253000" />
       <workItem from="1580270353965" duration="4284000" />
       <workItem from="1580301821391" duration="3581000" />
-      <workItem from="1580348875573" duration="5092000" />
+      <workItem from="1580348875573" duration="5185000" />
+      <workItem from="1580434853983" duration="6357000" />
     </task>
     <servers />
   </component>
@@ -174,38 +175,38 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="299" y="9" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1576310297035" />
-    <state width="1493" height="241" key="GridCell.Tab.0.bottom" timestamp="1580354292593">
+    <state width="1493" height="241" key="GridCell.Tab.0.bottom" timestamp="1580441431824">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="241" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580354292593" />
-    <state width="1493" height="241" key="GridCell.Tab.0.center" timestamp="1580354292593">
+    <state width="1493" height="241" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580441431824" />
+    <state width="1493" height="241" key="GridCell.Tab.0.center" timestamp="1580441431824">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="241" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580354292593" />
-    <state width="1493" height="241" key="GridCell.Tab.0.left" timestamp="1580354292592">
+    <state width="1493" height="241" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580441431824" />
+    <state width="1493" height="241" key="GridCell.Tab.0.left" timestamp="1580441431824">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="241" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580354292592" />
-    <state width="1493" height="241" key="GridCell.Tab.0.right" timestamp="1580354292593">
+    <state width="1493" height="241" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580441431824" />
+    <state width="1493" height="241" key="GridCell.Tab.0.right" timestamp="1580441431824">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="241" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580354292593" />
-    <state width="1493" height="202" key="GridCell.Tab.1.bottom" timestamp="1580354217530">
+    <state width="1493" height="241" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580441431824" />
+    <state width="1493" height="202" key="GridCell.Tab.1.bottom" timestamp="1580440294039">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="202" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580354217530" />
-    <state width="1493" height="202" key="GridCell.Tab.1.center" timestamp="1580354217530">
+    <state width="1493" height="202" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580440294039" />
+    <state width="1493" height="202" key="GridCell.Tab.1.center" timestamp="1580440294038">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="202" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1580354217530" />
-    <state width="1493" height="202" key="GridCell.Tab.1.left" timestamp="1580354217530">
+    <state width="1493" height="202" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1580440294038" />
+    <state width="1493" height="202" key="GridCell.Tab.1.left" timestamp="1580440294038">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="202" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1580354217530" />
-    <state width="1493" height="202" key="GridCell.Tab.1.right" timestamp="1580354217530">
+    <state width="1493" height="202" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1580440294038" />
+    <state width="1493" height="202" key="GridCell.Tab.1.right" timestamp="1580440294038">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="202" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1580354217530" />
+    <state width="1493" height="202" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1580440294038" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
