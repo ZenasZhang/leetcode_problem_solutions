@@ -34,22 +34,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
-  <component name="RunManager" selected="Application.SelfDividingNumbers_728">
-    <configuration name="LongestPalindromicSubstring_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="medium.LongestPalindromicSubstring_5" />
-      <module name="leetcodePractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="medium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MissingNumber_268" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="easy.MissingNumber_268" />
+  <component name="RunManager" selected="Application.ConstructTheRectangle_492">
+    <configuration name="ConstructTheRectangle_492" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="easy.ConstructTheRectangle_492" />
       <module name="leetcodePractice" />
       <extension name="coverage">
         <pattern>
@@ -61,8 +48,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RansomNote_383" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="easy.RansomNote_383" />
+    <configuration name="FindAllNumbersDisappearedInArray_448" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="easy.FindAllNumbersDisappearedInArray_448" />
+      <module name="leetcodePractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PerfectNumber_507" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="easy.PerfectNumber_507" />
       <module name="leetcodePractice" />
       <extension name="coverage">
         <pattern>
@@ -102,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConstructTheRectangle_492" />
+        <item itemvalue="Application.FindAllNumbersDisappearedInArray_448" />
+        <item itemvalue="Application.PerfectNumber_507" />
         <item itemvalue="Application.SelfDividingNumbers_728" />
         <item itemvalue="Application.RobotReturnToOrigin_657" />
-        <item itemvalue="Application.LongestPalindromicSubstring_5" />
-        <item itemvalue="Application.RansomNote_383" />
-        <item itemvalue="Application.MissingNumber_268" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +164,8 @@
       <workItem from="1580348875573" duration="5185000" />
       <workItem from="1580434853983" duration="11545000" />
       <workItem from="1580521797427" duration="4336000" />
-      <workItem from="1580533614034" duration="4977000" />
+      <workItem from="1580533614034" duration="5249000" />
+      <workItem from="1580806551379" duration="4663000" />
     </task>
     <servers />
   </component>
@@ -177,38 +178,38 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="299" y="9" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1576310297035" />
-    <state width="1493" height="241" key="GridCell.Tab.0.bottom" timestamp="1580546600502">
+    <state width="1493" height="241" key="GridCell.Tab.0.bottom" timestamp="1580810704389">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="241" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580546600502" />
-    <state width="1493" height="241" key="GridCell.Tab.0.center" timestamp="1580546600502">
+    <state width="1493" height="241" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580810704389" />
+    <state width="1493" height="241" key="GridCell.Tab.0.center" timestamp="1580810704388">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="241" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580546600502" />
-    <state width="1493" height="241" key="GridCell.Tab.0.left" timestamp="1580546600502">
+    <state width="1493" height="241" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580810704388" />
+    <state width="1493" height="241" key="GridCell.Tab.0.left" timestamp="1580810704388">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="241" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580546600502" />
-    <state width="1493" height="241" key="GridCell.Tab.0.right" timestamp="1580546600502">
+    <state width="1493" height="241" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580810704388" />
+    <state width="1493" height="241" key="GridCell.Tab.0.right" timestamp="1580810704388">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="241" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580546600502" />
-    <state width="1493" height="202" key="GridCell.Tab.1.bottom" timestamp="1580462079147">
+    <state width="1493" height="241" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580810704388" />
+    <state width="1493" height="202" key="GridCell.Tab.1.bottom" timestamp="1580810546661">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="202" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580462079147" />
-    <state width="1493" height="202" key="GridCell.Tab.1.center" timestamp="1580462079147">
+    <state width="1493" height="202" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580810546661" />
+    <state width="1493" height="202" key="GridCell.Tab.1.center" timestamp="1580810546661">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="202" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1580462079147" />
-    <state width="1493" height="202" key="GridCell.Tab.1.left" timestamp="1580462079147">
+    <state width="1493" height="202" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1580810546661" />
+    <state width="1493" height="202" key="GridCell.Tab.1.left" timestamp="1580810546661">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="202" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1580462079147" />
-    <state width="1493" height="202" key="GridCell.Tab.1.right" timestamp="1580462079147">
+    <state width="1493" height="202" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1580810546661" />
+    <state width="1493" height="202" key="GridCell.Tab.1.right" timestamp="1580810546661">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="202" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1580462079147" />
+    <state width="1493" height="202" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1580810546661" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
