@@ -34,22 +34,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
-  <component name="RunManager" selected="Application.UniqueMorseCodeWords_804">
-    <configuration name="BasicCalculator_224" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="difficult.BasicCalculator_224" />
-      <module name="leetcodePractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="difficult.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ContainsDuplicate_217" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="easy.ContainsDuplicate_217" />
+  <component name="RunManager" selected="Application.MonotonicArray_896">
+    <configuration name="ExcelSheetColumnTitle_168" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="easy.ExcelSheetColumnTitle_168" />
       <module name="leetcodePractice" />
       <extension name="coverage">
         <pattern>
@@ -74,8 +61,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PowerOfTwo_231" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="easy.PowerOfTwo_231" />
+    <configuration name="MonotonicArray_896" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="easy.MonotonicArray_896" />
+      <module name="leetcodePractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ToLowerCase_709" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="easy.ToLowerCase_709" />
       <module name="leetcodePractice" />
       <extension name="coverage">
         <pattern>
@@ -102,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MonotonicArray_896" />
+        <item itemvalue="Application.ToLowerCase_709" />
+        <item itemvalue="Application.ExcelSheetColumnTitle_168" />
         <item itemvalue="Application.UniqueMorseCodeWords_804" />
         <item itemvalue="Application.Maximum69Number_1323" />
-        <item itemvalue="Application.PowerOfTwo_231" />
-        <item itemvalue="Application.BasicCalculator_224" />
-        <item itemvalue="Application.ContainsDuplicate_217" />
       </list>
     </recent_temporary>
   </component>
@@ -167,7 +167,7 @@
       <workItem from="1580533614034" duration="5249000" />
       <workItem from="1580806551379" duration="4762000" />
       <workItem from="1580813161591" duration="6721000" />
-      <workItem from="1580872156076" duration="24944000" />
+      <workItem from="1580872156076" duration="31238000" />
     </task>
     <servers />
   </component>
@@ -180,38 +180,38 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="299" y="9" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1576310297035" />
-    <state width="1493" height="241" key="GridCell.Tab.0.bottom" timestamp="1580965414192">
+    <state width="1493" height="241" key="GridCell.Tab.0.bottom" timestamp="1580985974072">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="241" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580965414192" />
-    <state width="1493" height="241" key="GridCell.Tab.0.center" timestamp="1580965414192">
+    <state width="1493" height="241" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580985974072" />
+    <state width="1493" height="241" key="GridCell.Tab.0.center" timestamp="1580985974072">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="241" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580965414192" />
-    <state width="1493" height="241" key="GridCell.Tab.0.left" timestamp="1580965414192">
+    <state width="1493" height="241" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580985974072" />
+    <state width="1493" height="241" key="GridCell.Tab.0.left" timestamp="1580985974071">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="241" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580965414192" />
-    <state width="1493" height="241" key="GridCell.Tab.0.right" timestamp="1580965414192">
+    <state width="1493" height="241" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580985974071" />
+    <state width="1493" height="241" key="GridCell.Tab.0.right" timestamp="1580985974072">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="241" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580965414192" />
-    <state width="1493" height="202" key="GridCell.Tab.1.bottom" timestamp="1580961115741">
+    <state width="1493" height="241" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580985974072" />
+    <state width="1493" height="202" key="GridCell.Tab.1.bottom" timestamp="1580981890725">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="202" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580961115741" />
-    <state width="1493" height="202" key="GridCell.Tab.1.center" timestamp="1580961115740">
+    <state width="1493" height="202" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580981890725" />
+    <state width="1493" height="202" key="GridCell.Tab.1.center" timestamp="1580981890725">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="202" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1580961115740" />
-    <state width="1493" height="202" key="GridCell.Tab.1.left" timestamp="1580961115740">
+    <state width="1493" height="202" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1580981890725" />
+    <state width="1493" height="202" key="GridCell.Tab.1.left" timestamp="1580981890725">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="202" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1580961115740" />
-    <state width="1493" height="202" key="GridCell.Tab.1.right" timestamp="1580961115741">
+    <state width="1493" height="202" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1580981890725" />
+    <state width="1493" height="202" key="GridCell.Tab.1.right" timestamp="1580981890725">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="202" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1580961115741" />
+    <state width="1493" height="202" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1580981890725" />
     <state x="499" y="183" key="extract.method.dialog" timestamp="1580878892361">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
