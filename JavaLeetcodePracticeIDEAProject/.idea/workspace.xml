@@ -53,20 +53,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
-  <component name="RunManager" selected="Application.LongPressedName_925">
-    <configuration name="K_diffPairsInAnArray_532" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="easy.K_diffPairsInAnArray_532" />
-      <module name="leetcodePractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.RotateString_796">
     <configuration name="LetterCasePermutation_784" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="easy.LetterCasePermutation_784" />
       <module name="leetcodePractice" />
@@ -82,6 +69,19 @@
     </configuration>
     <configuration name="LongPressedName_925" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="easy.LongPressedName_925" />
+      <module name="leetcodePractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RotateString_796" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="easy.RotateString_796" />
       <module name="leetcodePractice" />
       <extension name="coverage">
         <pattern>
@@ -115,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RotateString_796" />
         <item itemvalue="Application.LongPressedName_925" />
         <item itemvalue="Application.WordSearch_79" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.LetterCasePermutation_784" />
-        <item itemvalue="Application.K_diffPairsInAnArray_532" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +172,8 @@
       <workItem from="1581127134768" duration="15327000" />
       <workItem from="1592883501131" duration="89000" />
       <workItem from="1592962839909" duration="5746000" />
-      <workItem from="1592978416150" duration="4038000" />
+      <workItem from="1592978416150" duration="4435000" />
+      <workItem from="1592985808049" duration="1034000" />
     </task>
     <servers />
   </component>
@@ -196,38 +197,38 @@
     <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="958" height="153" key="GridCell.Tab.0.bottom" timestamp="1592982013661">
+    <state width="958" height="153" key="GridCell.Tab.0.bottom" timestamp="1592986472001">
       <screen x="68" y="27" width="1012" height="693" />
     </state>
-    <state width="958" height="153" key="GridCell.Tab.0.bottom/68.27.1012.693@68.27.1012.693" timestamp="1592982013661" />
-    <state width="958" height="153" key="GridCell.Tab.0.center" timestamp="1592982013660">
+    <state width="958" height="153" key="GridCell.Tab.0.bottom/68.27.1012.693@68.27.1012.693" timestamp="1592986472001" />
+    <state width="958" height="153" key="GridCell.Tab.0.center" timestamp="1592986472000">
       <screen x="68" y="27" width="1012" height="693" />
     </state>
-    <state width="958" height="153" key="GridCell.Tab.0.center/68.27.1012.693@68.27.1012.693" timestamp="1592982013660" />
-    <state width="958" height="153" key="GridCell.Tab.0.left" timestamp="1592982013660">
+    <state width="958" height="153" key="GridCell.Tab.0.center/68.27.1012.693@68.27.1012.693" timestamp="1592986472000" />
+    <state width="958" height="153" key="GridCell.Tab.0.left" timestamp="1592986472000">
       <screen x="68" y="27" width="1012" height="693" />
     </state>
-    <state width="958" height="153" key="GridCell.Tab.0.left/68.27.1012.693@68.27.1012.693" timestamp="1592982013660" />
-    <state width="958" height="153" key="GridCell.Tab.0.right" timestamp="1592982013661">
+    <state width="958" height="153" key="GridCell.Tab.0.left/68.27.1012.693@68.27.1012.693" timestamp="1592986472000" />
+    <state width="958" height="153" key="GridCell.Tab.0.right" timestamp="1592986472000">
       <screen x="68" y="27" width="1012" height="693" />
     </state>
-    <state width="958" height="153" key="GridCell.Tab.0.right/68.27.1012.693@68.27.1012.693" timestamp="1592982013661" />
-    <state width="958" height="192" key="GridCell.Tab.1.bottom" timestamp="1592981447253">
+    <state width="958" height="153" key="GridCell.Tab.0.right/68.27.1012.693@68.27.1012.693" timestamp="1592986472000" />
+    <state width="958" height="192" key="GridCell.Tab.1.bottom" timestamp="1592982852308">
       <screen x="68" y="27" width="1012" height="693" />
     </state>
-    <state width="958" height="192" key="GridCell.Tab.1.bottom/68.27.1012.693@68.27.1012.693" timestamp="1592981447253" />
-    <state width="958" height="192" key="GridCell.Tab.1.center" timestamp="1592981447252">
+    <state width="958" height="192" key="GridCell.Tab.1.bottom/68.27.1012.693@68.27.1012.693" timestamp="1592982852308" />
+    <state width="958" height="192" key="GridCell.Tab.1.center" timestamp="1592982852307">
       <screen x="68" y="27" width="1012" height="693" />
     </state>
-    <state width="958" height="192" key="GridCell.Tab.1.center/68.27.1012.693@68.27.1012.693" timestamp="1592981447252" />
-    <state width="958" height="192" key="GridCell.Tab.1.left" timestamp="1592981447252">
+    <state width="958" height="192" key="GridCell.Tab.1.center/68.27.1012.693@68.27.1012.693" timestamp="1592982852307" />
+    <state width="958" height="192" key="GridCell.Tab.1.left" timestamp="1592982852307">
       <screen x="68" y="27" width="1012" height="693" />
     </state>
-    <state width="958" height="192" key="GridCell.Tab.1.left/68.27.1012.693@68.27.1012.693" timestamp="1592981447252" />
-    <state width="958" height="192" key="GridCell.Tab.1.right" timestamp="1592981447253">
+    <state width="958" height="192" key="GridCell.Tab.1.left/68.27.1012.693@68.27.1012.693" timestamp="1592982852307" />
+    <state width="958" height="192" key="GridCell.Tab.1.right" timestamp="1592982852307">
       <screen x="68" y="27" width="1012" height="693" />
     </state>
-    <state width="958" height="192" key="GridCell.Tab.1.right/68.27.1012.693@68.27.1012.693" timestamp="1592981447253" />
+    <state width="958" height="192" key="GridCell.Tab.1.right/68.27.1012.693@68.27.1012.693" timestamp="1592982852307" />
     <state x="68" y="13" width="1008" height="707" key="SettingsEditor" timestamp="1592963028160">
       <screen x="68" y="27" width="1012" height="693" />
     </state>
